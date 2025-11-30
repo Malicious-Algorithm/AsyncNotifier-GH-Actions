@@ -1,0 +1,38 @@
+# .gitignore for Secure Async Notifier Java Spring Boot project
+# Build output
+/target/
+/build/
+/out/
+
+# Maven wrapper
+.mvn/
+
+# Gradle wrapper
+.gradle/
+
+# IDE files
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.project
+/.classpath
+/.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment files
+.env
+
+# Others
+*.class
