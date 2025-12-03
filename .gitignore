@@ -1,6 +1,6 @@
 # .gitignore for Secure Async Notifier Java Spring Boot project
 # Build output
-/target/
+target/
 /build/
 /out/
 
