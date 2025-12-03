@@ -11,13 +11,13 @@ target/
 .gradle/
 
 # IDE files
-/.idea/
+..//.idea/
 *.iml
 *.ipr
 *.iws
-/.project
-/.classpath
-/.settings/
+../.project
+../.classpath
+../.settings/
 
 # OS files
 .DS_Store
@@ -25,14 +25,14 @@ Thumbs.db
 
 # Logs
 *.log
-logs/
+../logs/
 
 # Temporary files
 *.tmp
 *.swp
 
 # Environment files
-.env
+../.env
 
 # Others
 *.class
